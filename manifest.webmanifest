@@ -1,0 +1,32 @@
+{
+    "theme_color": "#080808",
+    "background_color": "#535252",
+    "display": "fullscreen",
+    "scope": "https://yoshida-git-ai.github.io/map-ja/",
+    "start_url": "https://yoshida-git-ai.github.io/map-ja/",
+    "name": "map-ja",
+    "short_name": "Map",
+    "description": "Japan Map",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
